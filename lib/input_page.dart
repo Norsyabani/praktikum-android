@@ -18,6 +18,7 @@ class _InputPageState extends State<InputPage> {
     return Scaffold(
       appBar: AppBar(
         title: Text('BMI Calculator'),
+        backgroundColor: Color(0xFF0A0E21),
         centerTitle: true,
       ),
       body: Column(
